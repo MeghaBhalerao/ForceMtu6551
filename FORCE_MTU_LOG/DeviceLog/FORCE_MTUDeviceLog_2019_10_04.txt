@@ -1,0 +1,96 @@
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :1937
+Device Local Port :6551
+Device Local Address :192.168.0.121:1937
+Date Time :2019-10-04 12:22:55
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :50132
+Device Local Port :6551
+Device Local Address :192.168.0.13:50132
+Date Time :2019-10-04 12:23:57
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :50156
+Device Local Port :6551
+Device Local Address :192.168.0.13:50156
+Date Time :2019-10-04 12:27:22
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :2010
+Device Local Port :6551
+Device Local Address :192.168.0.121:2010
+Date Time :2019-10-04 12:27:42
+----------------------------------------------------------------------
+Status :Disconnect
+Packet Name :Packet not found : socket close by server
+Device ID :NA
+Device Port :50156
+Device Local Port :6551
+Device Local Address :192.168.0.13:50156
+Date Time :2019-10-04 12:32:27
+----------------------------------------------------------------------
+Status :Disconnect
+Packet Name :Packet not found : socket close by server
+Device ID :NA
+Device Port :2010
+Device Local Port :6551
+Device Local Address :192.168.0.121:2010
+Date Time :2019-10-04 12:35:13
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :2191
+Device Local Port :6551
+Device Local Address :192.168.0.121:2191
+Date Time :2019-10-04 12:39:23
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :2254
+Device Local Port :6551
+Device Local Address :192.168.0.121:2254
+Date Time :2019-10-04 12:42:21
+----------------------------------------------------------------------
+Status :Disconected
+Packet Name :Packet Name: not found,Exception : bytes == -1
+Device ID :NA
+Device Port :2254
+Device Local Port :6551
+Device Local Address :192.168.0.121:2254
+Date Time :2019-10-04 12:43:28
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :50211
+Device Local Port :6551
+Device Local Address :192.168.0.13:50211
+Date Time :2019-10-04 12:54:56
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :2307
+Device Local Port :6551
+Device Local Address :192.168.0.121:2307
+Date Time :2019-10-04 12:55:43
+----------------------------------------------------------------------
+Status :Connected
+Packet Name :Packet name not found, devicec connection time
+Device ID :NA
+Device Port :50219
+Device Local Port :6551
+Device Local Address :192.168.0.13:50219
+Date Time :2019-10-04 12:56:27
+----------------------------------------------------------------------

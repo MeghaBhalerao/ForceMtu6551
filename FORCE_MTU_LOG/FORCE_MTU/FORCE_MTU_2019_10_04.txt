@@ -1,0 +1,5 @@
+Location :updateDeviceVerification
+Date :2019-10-04
+Time :12:24:00
+Exception :java.lang.NullPointerException
+----------------------------------------------------------------------------------------------------------------------------------------
